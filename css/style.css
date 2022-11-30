@@ -1,0 +1,16 @@
+body {
+    background-color: papayawhip;
+    text-align: center;
+}
+
+img {
+    margin-bottom: 40px;
+}
+
+.biggest-population-marker {
+    border: 3px solid green;
+    /* border-radius: 50px; */
+    margin: 10px auto;
+    padding: 5px;
+    width: 450px;
+}
